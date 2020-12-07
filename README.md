@@ -1,7 +1,7 @@
 # Predicting rain in Australia
  
 
-The dataset is from Bereau of Meteorogical dept, Australia. It contains daily weather observations from numerous Australian weather stations from Jan-2008 to August 2017. Observations of the climate data were drawn from numerous weather stations of the country.
+The dataset contains daily weather observations from numerous Australian weather stations from Jan-2008 to August 2017. Observations of the climate data were drawn from numerous weather stations of the country.
 There are total 23 features:
 
 **Categorical Features**
